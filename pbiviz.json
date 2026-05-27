@@ -1,0 +1,25 @@
+{
+  "visual": {
+    "name": "roscaInterativa",
+    "displayName": "Rosca Interativa",
+    "guid": "roscaInterativaA1B2C3D4E5F6",
+    "visualClassName": "Visual",
+    "version": "1.1.0.0",
+    "description": "Rosca (donut) configuravel: aceita Categoria opcional, multiplas medidas no campo Valor e Legenda opcional (se nao houver Legenda usa Categoria; se nao houver Categoria usa nomes das medidas). Raio externo e largura do anel ajustaveis, totalizador no centro (titulo + valor com formato/prefixo/sufixo), cor manual por fatia, rotulos configuraveis (valor, %, categoria ou combinacoes) com locacao interna/externa/linha guia, alinhamento, fonte e prefixo/sufixo, legenda com interacao por clique.",
+    "supportUrl": "https://app.powerbi.com",
+    "gitHubUrl": ""
+  },
+  "apiVersion": "5.9.0",
+  "author": {
+    "name": "Rodrigo de Souza Barbosa",
+    "email": "rodzbar@outlook.com"
+  },
+  "assets": {
+    "icon": "assets/icon.png"
+  },
+  "externalJS": [],
+  "style": "style/visual.less",
+  "capabilities": "capabilities.json",
+  "dependencies": null,
+  "stringResources": []
+}
