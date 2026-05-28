@@ -6,8 +6,8 @@
     "visualClassName": "Visual",
     "version": "1.1.0.0",
     "description": "Rosca (donut) configuravel: aceita Categoria opcional, multiplas medidas no campo Valor e Legenda opcional (se nao houver Legenda usa Categoria; se nao houver Categoria usa nomes das medidas). Raio externo e largura do anel ajustaveis, totalizador no centro (titulo + valor com formato/prefixo/sufixo), cor manual por fatia, rotulos configuraveis (valor, %, categoria ou combinacoes) com locacao interna/externa/linha guia, alinhamento, fonte e prefixo/sufixo, legenda com interacao por clique.",
-    "supportUrl": "https://app.powerbi.com",
-    "gitHubUrl": ""
+    "supportUrl": "https://github.com/RODZBAR/rosca-interativa-powerbi-visual/issues",
+    "gitHubUrl": "https://github.com/RODZBAR/rosca-interativa-powerbi-visual"
   },
   "apiVersion": "5.9.0",
   "author": {
